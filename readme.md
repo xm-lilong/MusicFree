@@ -65,6 +65,7 @@
 
 
 你可以直接点击从网络安装插件，然后输入<https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json> ，点击确认即可安装。
+https://github.com/xm-lilong/MusicFree/blob/master/music.json
 
 图文版详细使用说明可以参考公众号：[MusicFree 插件使用指南](https://mp.weixin.qq.com/s?__biz=MzkxOTM5MDI4MA==&mid=2247483875&idx=1&sn=aedf8bb909540634d927de7fd2b4b8b1&chksm=c1a390c4f6d419d233908bb781d418c6b9fd2ca82e9e93291e7c93b8ead3c50ca5ae39668212#rd)，或者站点： https://musicfree.upup.fun/usage/mobile/install-plugin.html
 
